@@ -79,4 +79,4 @@ Comments, indicated with #, are not executed by the interpreter.
 When a nonextistent opcode is passed, the interpreter prints an error message and stops:
 
 $ cat errorfile.m
-AUTHOR: Unachukwu
+AUTHOR: ranerane
